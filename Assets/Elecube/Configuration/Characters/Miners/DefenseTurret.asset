@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50d153010ffb94330afaf4c623a7aedb, type: 3}
+  m_Name: DefenseTurret
+  m_EditorClassIdentifier: 
+  _characterId: 7
+  _characterHealth: 3500
+  _characterDamage: 150
+  _characterPrefab:
+    RawGuidValue: e2a50db8ad1cc4ffd955cdc6b2181129
+  _characterVisualPrefab: {fileID: 0}
+  _utilityStat: 0

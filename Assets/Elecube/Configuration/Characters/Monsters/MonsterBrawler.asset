@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24d69a01ba38e45ccae0c446fe8b6257, type: 3}
+  m_Name: MonsterBrawler
+  m_EditorClassIdentifier: 
+  _characterId: 4
+  _characterHealth: 7500
+  _characterDamage: 300
+  _characterPrefab:
+    RawGuidValue: 66ea9304fc7344024a4b16d7dc1cadd7
+  _characterVisualPrefab: {fileID: 9179537974050792320, guid: 21cc63ed83feb4f30ae0f1e5bd86005e,
+    type: 3}
+  _utilityStat: 5
+  _characterIcon: {fileID: 2800000, guid: 941035757e6bb264b833a4b1a6fa482a, type: 3}
+  _characterName: Petr
+  _characterDescription: this is monster 1
+  _superDescription: 

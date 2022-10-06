@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a30a049d1c0e43b0849baed8ce933de, type: 3}
+  m_Name: HunterBrawler
+  m_EditorClassIdentifier: 
+  _characterId: 2
+  _characterHealth: 2000
+  _characterDamage: 330
+  _characterPrefab:
+    RawGuidValue: 5e3fe6ce0ef484adaafa5b1e1e844f91
+  _characterVisualPrefab: {fileID: 1900222227191176242, guid: 39686a97916b144c8b998b8527292f85,
+    type: 3}
+  _utilityStat: 5
+  _characterIcon: {fileID: 2800000, guid: 0591964a94055c842a5e6698c62700eb, type: 3}
+  _characterName: David
+  _characterDescription: This is hunter 1
+  _superDescription: 

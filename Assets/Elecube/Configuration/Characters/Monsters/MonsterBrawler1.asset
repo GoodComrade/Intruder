@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24d69a01ba38e45ccae0c446fe8b6257, type: 3}
+  m_Name: MonsterBrawler1
+  m_EditorClassIdentifier: 
+  _characterId: 3
+  _characterHealth: 7500
+  _characterDamage: 300
+  _characterPrefab:
+    RawGuidValue: af45d83972a2e433bac4d32a9b2f17b4
+  _characterVisualPrefab: {fileID: 7126483378491798447, guid: 2d7f310e3e054c64692327f588bb3c08,
+    type: 3}
+  _utilityStat: 2
+  _characterIcon: {fileID: 2800000, guid: cd5909f9c7cf4644887bf7053e8f7e24, type: 3}
+  _characterName: Monster 2
+  _characterDescription: this is monster 2
+  _superDescription: 

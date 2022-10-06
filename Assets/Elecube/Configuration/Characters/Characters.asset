@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86f9172d9b49d4ff3b7e81ac023574af, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  _spaceship: {fileID: 11400000, guid: 4bbe4058ec96f42c4aba227e7031d4f5, type: 2}
+  _defenseTurret: {fileID: 11400000, guid: ef35250f9677c48df9ac1af5ddef31bd, type: 2}
+  _worker: {fileID: 11400000, guid: dd623c98167444c8ab48f76410e29fef, type: 2}
+  _monsters:
+  - {fileID: 11400000, guid: 401f762ebfd5ea64c9c80a7c7ee6ed3a, type: 2}
+  - {fileID: 11400000, guid: 3e30cd444a0cd7c4d8811cc0c75925ca, type: 2}
+  _hunters:
+  - {fileID: 11400000, guid: 87b7548327429b94fa9511c93c723724, type: 2}
+  - {fileID: 11400000, guid: 57d37e10f4a18944e97365ef067b23ad, type: 2}
+  _critters:
+  - {fileID: 11400000, guid: 0398a5097a9b54f5fbbb04a3f42b4deb, type: 2}
